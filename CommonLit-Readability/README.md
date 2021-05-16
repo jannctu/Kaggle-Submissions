@@ -14,3 +14,5 @@ train.csv / test.csv - the training and testing set
 - excerpt - text to predict reading ease of
 - target - reading ease
 - standard_error - measure of spread of scores among multiple raters for each excerpt
+
+### If you have problem to see jupyter notebook on Github please click [here](prototype.md)

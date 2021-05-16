@@ -6,7 +6,9 @@ this repository contains my Kaggle submissions. Hopefully will be updated regula
 - [Software Developer Survey](https://github.com/jannctu/SoftwareEngineerSalaryEstimation/blob/master/EDA.ipynb)
 - [Speech Recognition](speech-recognition/)
 - [Bitcoin Price](btc-price/simple-btc-visualization.ipynb)
-
+        A gentle introduction Technical Analysis on Python.
+  
+- 
 ## Classification
 
 - [Titanic](Titanic/)

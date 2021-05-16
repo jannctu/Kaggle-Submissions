@@ -9,12 +9,12 @@ Given Image dataset, the task is to classify different fish on 9 different categ
 
 ## Approaches 
 
-- VGGNet Backbone (Transfer Learning)
+- VGGNet Backbone (Transfer Learning) 
 
-    Accuracy: ~99% 
+    Accuracy: [~99%](ResNet18-Pytorch.md) 
 - ResNet18 Backbone (Transfer Learning)
 
-    Accuracy: ~99%
+    Accuracy: [~99%](VGGNet-Transfer-Learning.md)
 
 
 

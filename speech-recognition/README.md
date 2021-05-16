@@ -8,3 +8,4 @@ Download data from [Kaggle](https://www.kaggle.com/c/tensorflow-speech-recogniti
 
 - Data Visualization: [EDA.ipynb](EDA.ipynb)
 
+### If you have problem to see jupyter notebook on Github please click [here](EDA.md)

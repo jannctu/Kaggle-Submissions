@@ -1,0 +1,15 @@
+.idea/**
+Titanic/.ipynb_checkpoints/*
+CommonLit-Readability/.ipynb_checkpoints/*
+twitter-sentiment-analysis/**
+twitter-sentiment-analysis/.ipynb_checkpoints/*
+house-prices/**
+CommonLit-Readability/commonlit-a-complete-analysis.ipynb
+CommonLit-Readability/pytorch_bert_model.ipynb
+CommonLit-Readability/training-kfolds-vanilla-pytorch-bert-starter.ipynb
+forbes-billionaires-2021/.ipynb_checkpoints/**
+gender-classification/.ipynb_checkpoints/**
+speech-recognition/.ipynb_checkpoints/**
+btc-price/.ipynb_checkpoints/**
+student-performance/.ipynb_checkpoints/**
+server.js

@@ -21,3 +21,4 @@ The score is the percentage of passengers you correctly predict. This is known a
 where: `TP = True positive; FP = False positive; TN = True negative; FN = False negative`
 
 
+### If you have problem to see jupyter notebook on Github please click [here](prototype.md)
